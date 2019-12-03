@@ -1,0 +1,6 @@
+C:\Users\jigg1\Documents\School\IT 2040 Programming\Final\Final_Brixey\Final_Brixey\obj\Debug\Final_Brixey.csprojAssemblyReference.cache
+C:\Users\jigg1\Documents\School\IT 2040 Programming\Final\Final_Brixey\Final_Brixey\bin\Debug\Final_Brixey.exe.config
+C:\Users\jigg1\Documents\School\IT 2040 Programming\Final\Final_Brixey\Final_Brixey\bin\Debug\Final_Brixey.exe
+C:\Users\jigg1\Documents\School\IT 2040 Programming\Final\Final_Brixey\Final_Brixey\bin\Debug\Final_Brixey.pdb
+C:\Users\jigg1\Documents\School\IT 2040 Programming\Final\Final_Brixey\Final_Brixey\obj\Debug\Final_Brixey.exe
+C:\Users\jigg1\Documents\School\IT 2040 Programming\Final\Final_Brixey\Final_Brixey\obj\Debug\Final_Brixey.pdb
